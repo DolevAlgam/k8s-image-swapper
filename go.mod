@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/alitto/pond v1.4.0
 	github.com/aws/aws-sdk-go v1.38.47
-	github.com/containers/image/v5 v5.11.0
+	github.com/containers/image/v5 v5.13.2
 	github.com/dgraph-io/ristretto v0.1.0
 	github.com/go-co-op/gocron v0.4.0
 	github.com/godbus/dbus v0.0.0-20190422162347-ade71ed3457e // indirect
@@ -20,6 +20,6 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.7.0
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.20.1
+	k8s.io/api v0.20.6
 	k8s.io/apimachinery v0.21.1
 )
